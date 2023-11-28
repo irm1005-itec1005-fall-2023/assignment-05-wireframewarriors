@@ -24,6 +24,13 @@ we will be making a website like a Shopify website, where you can go look at the
 
 What problem is your product solving? Why is it important to solve this problem?
 
+
+for the game:
+memory card game addresses the cognitive challenge of memory retention and recall, offering a solution to enhance memory skills. The problem it solves is related to memory improvement and cognitive exercise, particularly in a fun and engaging way. 
+
+
+for the product website:
+The website addresses the challenges customers face in finding and purchasing hoodies online
 -->
 
 
@@ -33,7 +40,10 @@ What problem is your product solving? Why is it important to solve this problem?
 
 What are you going to add to your product that will make it stand out? What are the moments of charm that will make your product memorable?
 
-for the game idea maybe a scrren animation that would introduce  the game before starting to play it and for the product idea maybe a aniamted product that can introsccue the product in a cool way before bying it 
+for the game idea maybe a scrren animation that would introduce  the game before starting to play it 
+
+
+for the product idea maybe a aniamted product that can introsccue the product in a cool way before bying it or Allow customers to personalize their hoodies with custom colors, patterns, or even text.
 
 -->
 
