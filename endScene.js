@@ -10,7 +10,7 @@ export class EndScene extends Phaser.Scene {
   }
   // Phaser init build in function
   init (data) {
-    this.cameras.main.setBackgroundColor('#8510d8')
+    this.cameras.main.setBackgroundColor('#00A2E8')
   }
   // Phaser preload build in function
   preload () {
